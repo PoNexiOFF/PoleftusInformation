@@ -10,6 +10,14 @@ For support, join our [discord](https://discord.gg/CrQ7UTN8am).
   /patchnote [version]
 ```
 
+### Active variables for the bot
+
+| Variable | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `userid`      | `string` | Give **userid**. (e.g: "624998366824366095" ) |
+| `username`      | `string` | Give **username**. (e.g: "Ponexi" ) |
+| `servername`      | `string` | Give **server name**. (e.g: "Poleftus Interactive" ) |
+
 ## 🛠 05/02/23 - v0.0.0 beta, second patchnote (devbuild)
 
 ### New Features
