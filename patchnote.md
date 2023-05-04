@@ -1,10 +1,12 @@
 # Patchnote of Poleftus
 
-### Support & Shop
+### Informations
 
 For support, join our [discord](https://discord.gg/CrQ7UTN8am).
 
 To buy somethings, visit our [shop](https://ponexi.mysellix.io/).
+
+To see the documentation related to Poleftus: [documentation]()
 
 ### View in-game patchnote
 
@@ -12,11 +14,23 @@ To buy somethings, visit our [shop](https://ponexi.mysellix.io/).
   /patchnote [version]
 ```
 
+---
+
 ## 🛠 05/03/23 - v0.0.0 beta, third patchnote (devbuild)
 
 ### New Features
 
 -> /adventure banuser [id] : Ban a user from the adventure (!Only for community staff)
+
+---
+
+## 🛠 05/03/23 - v0.0.0 beta, third patchnote (devbuild)
+
+### New Features
+
+-> /adventure banuser [id] : Ban a user from the adventure (!Only for community staff)
+
+---
 
 ## 🛠 05/02/23 - v0.0.0 beta, second patchnote (devbuild)
 
