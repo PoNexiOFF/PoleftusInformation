@@ -27,6 +27,8 @@ To buy somethings, visit our [shop](https://ponexi.mysellix.io/).
 
 * 🌍 /language [!language{choices: Français, English}] : Choose your language
 
+* 🧭 /inventory view [user] : View inventory of a user or your.
+
 ---
 
 ## 🛠 05/03/23 - v0.0.0 beta, third patchnote (devbuild)
