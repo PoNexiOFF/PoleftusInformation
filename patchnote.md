@@ -12,14 +12,6 @@ To buy somethings, visit our [shop](https://ponexi.mysellix.io/).
   /patchnote [version]
 ```
 
-### Active variables for the bot
-
-| Variable | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `userid`      | `string` | Give **userid**. (e.g: "624998366824366095" ) |
-| `username`      | `string` | Give **username**. (e.g: "Ponexi" ) |
-| `servername`      | `string` | Give **server name**. (e.g: "Poleftus Interactive" ) |
-
 ## 🛠 05/03/23 - v0.0.0 beta, third patchnote (devbuild)
 
 ### New Features
