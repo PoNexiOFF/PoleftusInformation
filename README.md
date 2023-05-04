@@ -1,5 +1,5 @@
-# Poleftus-Information
+## Poleftus-Information
 
-## Patchnote:
+[Patchnote](https://github.com/PoNexiOFF/Poleftus-Information/blob/main/patchnote.md)
 
-[Patchnote]()
+[Documentation](https://github.com/PoNexiOFF/Poleftus-Information/blob/main/documentation.md)
