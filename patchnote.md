@@ -27,7 +27,19 @@ To buy somethings, visit our [shop](https://ponexi.mysellix.io/).
 
 * 🌍 /language [!language{choices: Français, English}] : Choose your language
 
-* 🧭 /inventory view [user] : View inventory of a user or your.
+* 🧭 /profile view [user] : View profile of a user or your.
+
+* 🧭 /inventory auction create : Create a auction offer with an item from your inventory.
+
+### New Functions
+
+* Marketplace auction Updater
+
+### Bug Patchnote
+
+* Auction Updater : Causes repetitive bot crashes when there is more than one auction.
+
+* 🧭 /inventory auction create : Mismanaged variable causing database crash + error in auction updater.
 
 ---
 
