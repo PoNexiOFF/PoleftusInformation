@@ -19,19 +19,13 @@ To buy somethings, visit our [shop](https://ponexi.mysellix.io/).
 
 ### New Features
 
-* /adventure banlist  : View all banned user from the adventure (!Only for community staff)
+* ⚖️ /adventure banlist  : View all banned user from the adventure (!Only for community staff)
 
-* /adventure resetuser [!id] [reason]  : Reset a user profil (!Only for community staff)
+* ⚖️ /adventure resetuser [!id] [reason]  : Reset a user profil (!Only for community staff)
 
-* /adventure marketplace panel [!for{choices: auction}] : MarketPlace Panel for Auction
+* 🛒 /adventure marketplace panel [!for{choices: auction}] : MarketPlace Panel for Auction
 
----
-
-## 🛠 05/03/23 - v0.0.0 beta, third patchnote (devbuild)
-
-### New Features
-
-* /adventure banuser [!id] [reason] : Ban a user from the adventure (!Only for community staff)
+* 🌍 /language [!language{choices: Français, English}] : Choose your language
 
 ---
 
@@ -39,7 +33,7 @@ To buy somethings, visit our [shop](https://ponexi.mysellix.io/).
 
 ### New Features
 
-* /adventure banuser [!id] : Ban a user from the adventure (!Only for community staff)
+* ⚖️ /adventure banuser [!id] : Ban a user from the adventure (!Only for community staff)
 
 ---
 
@@ -47,16 +41,16 @@ To buy somethings, visit our [shop](https://ponexi.mysellix.io/).
 
 ### New Features
 
-* /modmail create : create a modmail to talk with community staff
+* 🛠️ /modmail create : create a modmail to talk with community staff
 
-* /modmail list : List of modmail (!Only for community staff)
+* 🛠️ /modmail list : List of modmail (!Only for community staff)
 
-* /modmail close [!id] : Claim a modmail (!Only for community staff)
+* 🛠️ /modmail close [!id] : Claim a modmail (!Only for community staff)
 
-* /modmail claim [!id] : Close a modmail (!Only for community staff)
+* 🛠️ /modmail claim [!id] : Close a modmail (!Only for community staff)
 
 ### Bug Patchnote 
-* /help : Crash after long time.
+* ❓ /help : Crash after long time.
 
 ---
 
@@ -64,4 +58,4 @@ To buy somethings, visit our [shop](https://ponexi.mysellix.io/).
 
 ### New Features
 
-* /help : Give information about command
+* ❓ /help : Give information about command
