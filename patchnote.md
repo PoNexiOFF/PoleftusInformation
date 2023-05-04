@@ -23,6 +23,8 @@ To buy somethings, visit our [shop](https://ponexi.mysellix.io/).
 
 * /adventure resetuser [!id] [reason]  : Reset a user profil (!Only for community staff)
 
+* /adventure marketplace panel [!for{choices: auction}] : MarketPlace Panel for Auction
+
 ---
 
 ## 🛠 05/03/23 - v0.0.0 beta, third patchnote (devbuild)
