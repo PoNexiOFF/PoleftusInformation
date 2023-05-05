@@ -21,11 +21,15 @@ To buy somethings, visit our [shop](https://ponexi.mysellix.io/).
 
 * 🛒 /marketplace auction bid [!auctionid]  : Bid on an auction (auctionid is the number before the weapon/pet you would to bid).
 
+### Features Modification
+
+* 🛒 /adventure marketplace panel [!for{choices: auction}] : Redesign of the embed.
+
 ### Bug Patchnote
 
 * Auction Updater : Problem when finding the message to be modified on certain servers.
 * 🧭 /inventory auction create : Complete code overhaul.
-* 
+* 🧭 /profile view [user] : Fixed inventory embed.
 
 ---
 
