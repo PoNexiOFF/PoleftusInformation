@@ -13,6 +13,15 @@ To buy somethings, visit our [shop](https://ponexi.mysellix.io/).
 ```bash
   /patchnote [date of the patchnote]
 ```
+
+---
+
+## 🛠 05/06/23 - v0.0.0 beta, snapshot ma0.0.2
+
+### Features Modification
+
+* 🧭 /inventory auction create -> 🛒 /marketplace auction create
+
 ---
 
 ## 🛠 05/05/23 - v0.0.0 beta, snapshot ma0.0.2
