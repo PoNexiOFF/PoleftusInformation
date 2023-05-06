@@ -1,4 +1,4 @@
-## Poleftus-Information
+# 🤖 Poleftus Interactive
 
 Poleftus is a complete discord bot with moderation, management, fun, etc... But above all, a big interactive multiplayer adventure system.
 
