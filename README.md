@@ -8,7 +8,7 @@ Poleftus is currently in closed beta and no public release is planned at this ti
 
 ## Add Poleftus
 
-
+Poleftus is not available to the public. To follow the progress of the project, please join our [support](https://discord.gg/CrQ7UTN8am) server.
 
 ## Informations
 
