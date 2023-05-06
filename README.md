@@ -6,6 +6,16 @@ Poleftus is currently in closed beta and no public release is planned at this ti
 
 ---
 
+## Add Poleftus
+
+
+
+## Informations
+
 [Patchnote](https://github.com/PoNexiOFF/Poleftus-Information/blob/main/patchnote.md)
 
 [Documentation](https://github.com/PoNexiOFF/Poleftus-Information/blob/main/documentation.md)
+
+## Credits
+
+* Ponexi ([Ponexi](https://github.com/PoNexiOFF)) - Discord: Ponexi#2023
