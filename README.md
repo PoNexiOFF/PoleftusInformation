@@ -18,4 +18,4 @@ Poleftus is not available to the public. To follow the progress of the project, 
 
 ## Credits
 
-* ([Ponexi](https://github.com/PoNexiOFF)) - Discord: Ponexi#2023
+* [Ponexi](https://github.com/PoNexiOFF) - Discord: Ponexi#2023
